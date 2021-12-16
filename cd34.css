@@ -278,6 +278,9 @@ td.td_obligatoire a, td.td_renfort a{
 	margin-top:40px;
 }
 
+#tab_agenda .attendance {
+  display: none;
+}
 
 @media screen {
     #content, #content-planning{
